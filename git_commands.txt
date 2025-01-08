@@ -8,5 +8,6 @@ git remote add origin https://github.com/ankit11jambhale/GitHub-Practice.git
 git remote -v
 git remote set-url origin https://<PAT>@github.com/ankit11jambhale/GitHub-Practice.git
 git push origin master
+git pul origin master
 
 changes added 
