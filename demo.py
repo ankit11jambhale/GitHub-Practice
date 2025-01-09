@@ -1,6 +1,6 @@
 def my_function():
 
-    password = "test@123"
+    password = "test4523"
     a = 5
     return a + password
 
