@@ -1,9 +1,8 @@
-#!/usr/bin/env python3
-
 def my_function():
+
+    password = "test@123"
     a = 5
-    return a
+    return a + password
 
 
-if __name__ == "__main__":
-    print(my_function())
+my_function()
